@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "A fun Whack-a-Mole game built with React",
+  "homepage": "https://Priyanshu0097.github.io/whack-a-mole-react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
